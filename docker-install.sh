@@ -14,3 +14,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 # https://docs.docker.com/install/linux/linux-postinstall/
 sudo groupadd docker
 sudo usermod -aG docker $USER
+
+# https://docs.docker.com/install/linux/linux-postinstall/
+sudo groupadd docker
+sudo usermod -aG docker $USER
